@@ -1,4 +1,8 @@
-def add(a,b);
+def add(a,b):
 	return a + b
 
-print(add(5,3))
+def multiply(a, b):
+	return a * b
+
+print(add(4, 3))
+print(multiply(4, 3))
